@@ -1,0 +1,14 @@
+The player can go around a 2D ship doing biology questions which 
+will be documented as tasks henceforth. Once a task is completed, a 
+taskbar will increase, and once said taskbar is full, the player wins. 
+If a task was incorrectly completed, the user will be able to redo the 
+questions as many times as they would like. At the end of the game, 
+there will be a screen where they can see each question and why the 
+answer is correct. Scattered throughout the 2D ship, henceforth documented 
+as the map, there will be 9 images of a cartoon character, henceforth 
+documented as crewmates. Every 30 seconds, one of the crewmates will be 
+rotated 90 degrees and they will be “killed”. If the user navigates their 
+way to the dead crewmate, they can press the body and the user has one opportunity to answer a challenge correctly. If they answer the question correctly, 
+their point total increases by one. The user can set the point threshold needed to win
+at whatever number they choose. The score is calculated by finding the number of
+seconds taken to win and multiplying by 5.

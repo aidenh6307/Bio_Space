@@ -1,0 +1,300 @@
+01. Which of the following statements about biomolecules is/are TRUE?
+I. Complex carbohydrates such as glycogen and cellulose are polymers made up of chains of glucose monomers.
+II. Enzymes may be denatured by extreme conditions. This changes the shape of the R-groups on the amino acids and therefore changes the function of the protein
+III. Cholesterol is a steroid hormone that helps to stabilize cell membranes.
+IV. ATP is a nucleotide molecule with three phosphate groups
+a. I and III
+b. I and IV
+c. I, II, and IV
+d. II and III
+
+02. Which of the following statements about cells are TRUE?
+The Rough E.R. contains enzymes that modify protein assembled by the ribosomes.
+II. Chloroplasts are considered to be descendants of prokaryotic photosynthetic organisms.
+III. The cytoskeleton is made up of proteins that help maintain the cell's shape and provide a structure for vesicles to be transported around the cell.
+IV. Lysosomes are maintained at a lower pH than the cytoplasm due to facilitated diffusion of hydrogen ions across their membranes.           
+a. I and III
+b. II and IV
+c. I, II, and III
+d. I, II, III, and IV
+
+03. Which of the following statements about cell transport in plants is/are TRUE?
+I. Water moves up the stem of a plant and out of the stomata by osmosis
+II. Ions are moved into the roots of a plant by active transport and water follows by osmosis.
+III. Guard cells transport ions out into the surrounding cells to close the stomata
+IV. Carbon dioxide moves into chloroplasts by facilitated diffusion
+a. I and III
+b. II and III
+c. II and IV
+d. I, II, and IV
+
+04.  Which of the following statements about the cell cycle are TRUE?
+I. Sister chromatids are separated into two daughter cells during mitosis.
+II. Sister chromatids are attached at the centromere?
+III. Cell checkpoints ensure that mitosis is proceeding correctly.
+IV. When a cell becomes cancerous, it self-destructs through the process of apoptosis
+a. I and III
+b. II and IV
+c. I, II, and III
+d. I, II, III, and IV
+
+05. What environmental conditions generally increase the transpiration rate from plants
+I. high temperatures
+II. high humidity
+III. high wind
+IV. light
+a. I and III
+b. I, II, and IV
+c. I, III, and IV
+d. I, II, III, and IV
+
+06. Which one of the following pairs of molecules is NOT the same type of biomolecule?
+I. DNA and RNA
+II. Insulin and estrogen
+III. Hemoglobin and antibodies
+IV. Triglycerides and phospholipids
+a. I and IV
+b. I, II, and III
+c. II
+d. All of the above
+
+07. Which of the following statements about proteins is FALSE?
+I. DNA has instructions for making proteins.
+II. Changing the sequence of amino acids will change the way a protein folds.
+III. Proteins are transported by vesicles originating from the Golgi membrane.
+IV. Excess protein can be stored by cells for future use.
+a. I and III
+b. II and IV
+c. III and IV
+d. IV
+
+08. Enzymes help chemical reactions to occur when
+I. the substrate binds to the active site of the enzyme.
+II. the active site of the substrate binds to the product.
+III. A chemical bond forms between the enzyme and the substrate.
+IV. the enzyme and the substrate react to form the product
+a. I
+b. I and III
+c. I, II and IV
+d. III and IV
+
+09. Which one of the following statements about DNA is FALSE?
+I. DNA contains the instructions to produce proteins
+II.DNA is made up of amino acid monomers
+III. DNA contains the bases A, C, T, and G
+IV. DNA is double-stranded
+a. I and III
+b. II and IV
+c. II
+d. I, II, and IV
+
+10. Which of the following statements about chromosomes is/are TRUE?
+I. A chromosome contains one long molecule of DNA.
+II. Chromosomes contain nucleotides and amino acids.
+III. Chromosomes are found in the nucleus of eukaryotes.
+IV. Chromosomes are created during the process of protein synthesis.
+a. I
+b. II and III
+c. I, II and IV
+d. I, II, III, and IV
+
+11. When a strand of DNA is replicated, which of the following occurs? 
+I. Identical bases are formed into a new DNA strand by using the original DNA template.
+II. A strand of RNA is made that is then converted to DNA.
+III. Complementary bases are matched to the existing DNA strands.
+IV. Peptide bonds are formed between nucleotides
+a. I and II
+b. II and IV
+c. I and IV
+d. III
+
+12. Which of the following are involved in the process of DNA replication?
+I. helicase
+II. RNA polymerase
+III. DNA polymerase
+IV. ribosomes
+a. III
+b. I and III
+c. I, II, and IV
+d. I, II, III, and IV
+
+13. Which of the following statements about DNA replication are TRUE?
+I. DNA replication occurs during cell division.
+II. Mutations naturally occur during DNA replication.
+III. Proofreader enzymes correct all errors made during DNA replication.
+IV. DNA replication occurs in both prokaryotic and eukaryotic cells.
+a. I and II
+b. II and IV
+c. I, II, and IV
+d. I, II, III, and IV
+
+14. What enzyme attaches to the promoter region of a DNA molecule in transcription?
+I. DNA polymerase
+II. Lactase
+III. Helicase
+IV. RNA polymerase
+a. I and IV
+b. I and II
+c. IV
+d. I, II, and IV
+
+15. Which of the following statements regarding transcription is TRUE?
+I. It occurs in the nucleus
+II. The final product is a polypeptide chain
+III. It uses tRNA molecules to bring specific amino acids and chains them together by peptide bonds
+IV. Ribosomes are used
+a. I
+b. II and IV
+c. II, III, and IV
+d. I, II, III, and IV
+
+16. Which of the following would be created during the process of transcription and translation?
+I. DNA
+II. glucose
+III. phospholipid bilayer
+IV. lactase
+a. II and IV
+b. III and IV
+c. II
+d. IV
+
+17. Which of the following proteins is correctly matched with its function?
+I. lactase - catalyzes chemical reactions
+II. hemoglobin - transport molecules through the cell membrane
+III. collagen - provides structure in animal bodies
+IV. protein pump - transports oxygen through the body
+a. III
+b. I and III
+c. I, II and IV
+d. I, II, III, and IV
+
+18. A mutation in a person's gametes would end up in  __________________ of their offspring.
+I. all of the cells
+II. some of the cells
+III. none of the cells
+IV. It is not possible to predict.
+a. I
+b. III
+c. I and IV
+d. II, III, and IV
+
+19. A frameshift mutation would cause the biggest change in the resulting protein if the mutation were located
+I. at the beginning of the gene.
+II. in the middle of the gene.
+III. near the end of the gene.
+IV. It doesn't matter where the mutation is located.
+a. I 
+b. I and III
+c. III and IV
+d. I, II, and IV
+
+20. Which of the following statements about mutations and proteins are TRUE?
+I. A single substitution mutation can change the shape and function of the protein.
+II. A single substitution mutation will always change one amino acid in the protein.
+III. Changing an amino acid will always change the resulting shape and function of the protein.
+IV. Changing the shape of a protein will most likely change its function.
+a. I and IV
+b. II and III
+c. I, II, and IV
+d. I, II, III, and IV
+
+21. Which of the following environmental factors could potentially lead to cancer-causing mutations?
+I. UV light
+II. Radioactive material
+III. Tobacco
+IV. Viruses
+a. I and II
+b. II and IV
+c. I, II, and III
+d. I, II, III, and IV
+
+22. Two plants are considered different species because they
+I. have different phenotypes.
+II. are not experiencing any natural selection.
+III. are unable to successfully reproduce with one another.
+IV. have gone through coevolution. 
+a. I and III
+b. II and III
+c. III
+d. I, II, and IV
+
+23. Which of the following are examples of reproductive isolation?
+I. Two populations of bears on either side of a swimmable stream
+II. Two populations of mice on either side of a large canyon
+III. Two populations of deer, one species reproduces in the spring, the other in the fall
+IV. Two populations of snails with different reproductive system structures
+a. I and IV
+b. II, III, and IV
+c. I, III, and IV
+d. I, II, III, and IV
+
+24. Populations that have been separated from each other evolve into different species because of
+I. gene flow
+II. genetic drift
+III. interbreeding
+IV. different selection pressures
+a. I and II
+b. I and III
+c. II and IIII
+d. III
+
+25. The eyes of a human and the eyes of an octopus have a very similar structure. This is an example of
+I. adaptive radiation
+II. analogous structures
+III. coevolution
+IV. convergent evolution 
+a. I and III
+b. I and IV
+c. II and III
+d. II and IV
+
+26. Human activities select for organisms like raccoons, because these organisms are
+I. generalists
+II. sensitive to pollution
+III. specialists
+IV. tolerant of disturbance
+a. I and II
+b. I and IV
+c. II and III
+d. III and IV
+
+27. Which of the following statements about the Ardipithecus (Ardi) fossil are TRUE?
+I.  It was dated back to 4.4 mya because it was found between volcanic layers dated to that time
+II. It showed extensive climbing abilities because of a large toe that stuck out to the side
+III. It showed an increased brain size and tool use
+IV.  It shows anatomical evidence of the hips to demonstrate bipedalism
+a. I and III
+b. I, II, and IV
+c. II, III, and IV
+d. I, II, III, and IV
+
+28. Which of the following can be considered a part of the third phase of human evolution (leading to Homo spp)?
+I. Larger brains
+II. Stone tool use
+III. Bipedalism
+IV.  Reliance on culture
+a. I and II 
+b. II and IV
+c. I, II, and IV
+d. I, II, III, IV
+
+29. Which of the following statements about the evolution of human skin color is/are TRUE?
+I. Skin color evolves quickly because it is a single-gene trait.
+II. Skin color evolved from dark to light as hominids lost body hair. 
+III. Lighter skin gives individuals greater fitness at high latitudes.
+IV. The selection pressure for the evolution of skin color is the production of Vitamin D.
+a. III
+b. I and IV
+c. II and III
+d. III and IV
+
+30. Structural racism
+I. occurs only when there is conscious bias by people with racist beliefs. 
+II. exists in health care, education, and criminal justice. 
+III. can result from implicit bias as well as discrimination.
+IV. would disappear if people didn't have stereotypes.
+a. I and IV
+b. II and III
+c. II, III, and IV
+d. I, II, III, and IV
+
